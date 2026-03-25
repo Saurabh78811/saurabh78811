@@ -1,9 +1,13 @@
-# 💫 Hi 👋, I'm Saurabh Verma
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saurabh+Verma!;+I'm+Software+Developer;" />
+</h1>
+
+
 **A passionate React Developer || Android Developer || Node Js**
 
 Email Me 👉 ✉️ **vsaurabh78811@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
+- 🔭 **I’m currently working on:** Doctor Appointment Booking
 - 🌱 **I’m currently learning:** React Js
 - 👯 **I’m looking to collaborate on:** Doctor Appointment Booking
 - 🤔 **I’m looking for help with:** Food delevery App
