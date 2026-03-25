@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Saurabh Verma
 **A passionate React Developer || Android Developer || Node Js**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **vsaurabh78811@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** React Js
