@@ -3,6 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Saurabh%20Verma&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Android%20%E2%80%A2%20Node.js&descSize=19&descAlignY=58" alt="Saurabh Verma banner" width="100%" />
 
+<img src="https://res.cloudinary.com/ded0g81qk/image/upload/w_300,h_300,c_fill,g_face,r_max,bo_5px_solid_rgb:58A6FF/q_auto/WhatsApp_Image_2026-10-25_at_6.49.04_AM_pppusn.png" alt="Saurabh Verma" width="120" height="120" />
+<br/>
+
 <a href="https://github.com/Saurabh78811">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Saurabh+Verma;Building+clean+%26+fast+web+%2B+mobile+apps;React+%E2%80%A2+Android+%E2%80%A2+Node.js" alt="Typing animation" />
 </a>
@@ -12,7 +15,7 @@
 <a href="mailto:vsaurabh78811@gmail.com"><img src="https://img.shields.io/badge/Email-vsaurabh78811@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/saurabh-maurya-236b1725b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Saurabh78811"><img src="https://img.shields.io/github/followers/Saurabh78811?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" /></a>
-<a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
+<a href="https://saurabh-portfolio-ljxd.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Check%20Out-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
@@ -178,7 +181,7 @@
   <br/>
 
   <!-- Footer Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=SV&fontSize=40&fontColor=ffffff&fontAlignY=65" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&fontSize=40&fontColor=ffffff&fontAlignY=65" alt="Footer" width="100%" />
 
   <!-- Copyright Text Cleanly Placed -->
   <p><sub>Made with ❤️ by <b>Saurabh Verma</b> · © 2026 · All rights reserved</sub></p>
